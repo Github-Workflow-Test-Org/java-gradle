@@ -26,7 +26,7 @@ in Netty based servers that includes:
 See [Netryx Armor](/armor) for all details.
 
 ### Netryx Memory
-It is simple **native** library, included in [Netryx Armor](/armor), but available separately to manage sensitive data in memory.
+It is simple **native** library, included in [Netryx Armor](/armor), but available separately to manage sensitive data in memory.s
 Must-have for storing private keys, passwords and other crucial data in cache, without worrying if data would be swapped to disk
 or leaked.
 
